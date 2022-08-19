@@ -1,0 +1,23 @@
+# run reqs
+aiobotocore==2.1.0
+aiofiles==0.6.0
+boto3==1.20.2
+botocore==1.23.24
+fastapi==0.63.0
+gunicorn==20.0.4
+httptools==0.1.1
+loguru==0.5.3
+prometheus-client==0.13.1
+pydantic==1.7.3
+python-multipart==0.0.5
+uvicorn==0.13.3
+uvloop==0.14.0
+requests==2.25.1
+# # misc/docs
+recommonmark==0.7.1
+Sphinx==3.4.3
+sphinx-rtd-theme==0.5.1
+sphynx==0.0.3
+# test reqs
+coverage
+pytest
