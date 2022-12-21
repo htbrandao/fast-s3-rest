@@ -7,7 +7,7 @@ from fast_s3_rest import excecoes
 from fast_s3_rest.servicos.excecoes import excecoes_handler
 
 
-class TestExcecoesAplicacaoIATextoS3BaseException(unittest.TestCase):
+class TestExcecoesFastS3BaseException(unittest.TestCase):
 
     status_code = 400
     mensagem = 'Essa é uma exceção'
